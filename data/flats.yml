@@ -1,0 +1,23 @@
+Phi-Kap-007:
+  name: "Alex's home"
+  description: "Detached house in Ville St-Laurent"
+  city_name: "Montreal, Canada"
+  city_slug: "montreal"
+  wifi: false
+  rating: 5
+
+nealsutaria:
+  name: "Neil's home"
+  description: Suburban home in Austin
+  city_name: "Austin, Texas"
+  city_slug: "austin"
+  wifi: true
+  rating: 5
+
+martin:
+  name: "Neil's home"
+  description: Suburban home in Austin
+  city_name: "Austin, Texas"
+  city_slug: "austin"
+  wifi: true
+  rating: 5
